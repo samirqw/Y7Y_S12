@@ -7,7 +7,7 @@ body {
 }
 body {
     /* 1. تحديد الصورة */
-    background-image: url('your-image.jpg'); /* <-- ضع مسار صورتك هنا */
+    background-image: url('yassmine.PNG'); /* <-- ضع مسار صورتك هنا */
 
     /* 2. أهم خاصية لوضع الصورة في المنتصف */
     background-position: center;
@@ -106,3 +106,4 @@ input, textarea {
     text-decoration: none;
 
 }
+
