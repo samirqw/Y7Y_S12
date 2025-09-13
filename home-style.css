@@ -1,25 +1,21 @@
 body {
   background-image: url('yassmine.PNG');
-  font-family: Arial, sans-serif;
-  text-align: center;
-  padding: 20px;
-  color: white;
 
-    /* 2. أهم خاصية لوضع الصورة في المنتصف */
+
+   
     background-position: center;
 
-    /* 3. لجعل الصورة تملأ الشاشة بدون تشويه */
+    
     background-size: cover;
     
-    /* 4. لمنع تكرار الصورة */
     background-repeat: no-repeat;
 
-    /* 5. (اختياري) لجعل الخلفية ثابتة عند تحريك الصفحة */
+
     background-attachment: fixed;
     
-    /* 6. للتأكد من أن الخلفية تغطي كامل ارتفاع شاشة الهاتف */
+   
     min-height: 100vh;
-    margin: 0; /* لإزالة أي هوامش بيضاء حول الصفحة */
+    margin: 0; 
 }
 h1 {
   margin-bottom: 30px;
@@ -102,5 +98,6 @@ input, textarea {
     text-decoration: none;
 
 }
+
 
 
